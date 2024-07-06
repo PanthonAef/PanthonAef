@@ -18,26 +18,18 @@
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Senior Data & Platform Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
-<br/>
-**Digital Artist & Creator** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
+**Junior Software Developer** &#12299;_working in Software, Full Stack Developer_
 
 ----
 
-<a href="https://twitter.com/moertel">
+<a href="#">
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="https://www.instagram.com/moer.tel/">
+<a href="#">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://linkedin.com/in/stefaniegrunwald">
+<a href="#">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<a href="https://panthonkansap.vercel.app/">
-  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
-</a>
-<a href="https://behance.net/moertel">
-  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://panthonkansap.vercel.app/](https://panthonkansap.vercel.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Panthon Kansap
