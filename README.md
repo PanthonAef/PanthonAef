@@ -18,7 +18,7 @@
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Junior Software Developer** &#12299;_working in Software, Full Stack Developer_
+**Junior Software Developer** &#12299;_working in Software Development, Full Stack Developer_
 
 ----
 
