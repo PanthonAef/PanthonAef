@@ -33,11 +33,11 @@
 <a href="https://linkedin.com/in/stefaniegrunwald">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://moertel.tumblr.com/">
+<a href="https://panthonkansap.vercel.app/">
   <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
 </a>
 <a href="https://behance.net/moertel">
   <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;| Panthon Kansap
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://panthonkansap.vercel.app/](https://panthonkansap.vercel.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Panthon Kansap
